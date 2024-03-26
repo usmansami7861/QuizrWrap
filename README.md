@@ -15,9 +15,9 @@ bash dotnet restore Usage
 bash
 dotnet run Save to grepper 2. Database Operations: The application supports the following database operations:
 
-Insert Users: To insert users into the database, modify the InsertUsers method in the Program.cs file with your desired user data, then run the application.
+#Insert Users: To insert users into the database, modify the InsertUsers method in the Program.cs file with your desired user data, then run the application.
 
-Insert Content (Questions): Modify the InsertContentTextBased method in the Program.cs file with your desired questions and answers data, including image paths, then run the application.
+#Insert Content (Questions): Modify the InsertContentTextBased method in the Program.cs file with your desired questions and answers data, including image paths, then run the application.
 
 #Insert Networks:
 Modify the InsertNetworks method in the Program.cs file with your desired network data, then run the application.
