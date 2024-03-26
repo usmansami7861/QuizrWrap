@@ -5,7 +5,7 @@ Prerequisites Before you start, ensure you have the following installed:
 
 .NET SDK for building and running .NET applications. SQLite database engine. SQLite client (optional) for managing the database. Setup Clone the Repository:
 
-bash Copy code git clone [https://github.com/yourusername/your-repository.git](https://github.com/usmansami7861/QuizrWrap.git)  Navigate to the Project Directory:
+bash Copy code git clone https://github.com/usmansami7861/QuizrWrap.git Navigate to the Project Directory:
 
 bash cd your-repository Restore Packages:
 
