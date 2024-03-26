@@ -1,5 +1,5 @@
 # QuizrWrap
-ASP.NET Console Project with SQLite Database (QuizWrap) This project is an ASP.NET console application that utilizes a SQLite database for data storage. It allows you to perform CRUD (Create, Read, Update, Delete) operations on three tables: Users, Content (Questions), and Networks.
+ASP.NET Console Project with SQLite Database (QuizWrap) This project is an ASP.NET console application that utilizes a SQLite database for data storage. It allows you to perform CRUD (Create, Read, Update, Delete) operations on three tables: Users, Content (Questions), and Networks on runtime.
 
 #Prerequisites Before you start, ensure you have the following installed:
 
